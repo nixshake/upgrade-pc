@@ -1,2 +1,2 @@
-# upgrade-pc
-Lista de compras pro upgrade do meu pc e setup
+# UpgradePC
+Lista de itens para o upgrade do meu setup
