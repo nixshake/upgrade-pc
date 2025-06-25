@@ -2,7 +2,7 @@
 
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-image: linear-gradient(to right, rgb(26, 1, 32), rgb(102, 12, 175));
+    background-image: linear-gradient(to right, rgb(1, 32, 5), rgb(155, 201, 151));
     color: black;
 }
 h1{
@@ -15,7 +15,7 @@ main{
     border-radius: 10px;
 }
 div{
-    background-color: lightslategray;
+    background-color: antiquewhite;
     border-radius: 10px;
     padding: 10px;
     margin: 10px;
@@ -27,4 +27,8 @@ a{
 a:hover{
     text-decoration: underline;
     color: rgb(112, 112, 112);
+}
+del{
+    color: lightgreen;
+    background-color: lightgreen;
 }
