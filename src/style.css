@@ -2,7 +2,9 @@
 
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-image: linear-gradient(to right, rgb(1, 32, 5), rgb(155, 201, 151));
+    background-image: url("caitlyn.jpg");
+    background-size: cover;
+    background-attachment: fixed;
     color: black;
 }
 h1{
@@ -13,12 +15,7 @@ main{
     padding: 10px;
     margin: 5vh;
     border-radius: 10px;
-}
-div{
-    background-color: antiquewhite;
-    border-radius: 10px;
-    padding: 10px;
-    margin: 10px;
+    position: relative;
 }
 a{
     color: black;
