@@ -2,30 +2,40 @@
 
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-image: url("caitlyn.jpg");
+    background: linear-gradient(to right, #588157, #344e41);
     background-size: cover;
     background-attachment: fixed;
-    color: black;
+    color: #344e41;
 }
-h1{
-    text-align: center;
-}
+
 main{
-    background-color: white;
+    background-color: #dad7cd;
     padding: 10px;
     margin: 5vh;
     border-radius: 10px;
     position: relative;
 }
+
+h1{
+    text-align: center;
+}
+
+main li{
+    list-style-type: none;
+}
+
 a{
-    color: black;
+    color: #344e41;
     text-decoration: none;
 }
+
 a:hover{
     text-decoration: underline;
     color: rgb(112, 112, 112);
 }
+
 del{
-    color: lightgreen;
-    background-color: lightgreen;
+    color: #a3b18a;
+    background-color: #a3b18a;
 }
+
